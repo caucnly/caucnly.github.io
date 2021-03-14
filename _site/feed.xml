@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NieLiuYang</title>
+    <description></description>
+    <link>https://caucnly.github.io/</link>
+    <atom:link href="https://caucnly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Mar 2021 18:26:52 +0800</pubDate>
+    <lastBuildDate>Sun, 14 Mar 2021 18:26:52 +0800</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>MySQL详细安装步骤</title>
+        <description>MySQL详细的安装和下载过程，走了有一些弯路，记录一下</description>
+        <pubDate>Sun, 14 Mar 2021 00:00:00 +0800</pubDate>
+        <link>https://caucnly.github.io/2021/03/14/MySQL%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4/</link>
+        <guid isPermaLink="true">https://caucnly.github.io/2021/03/14/MySQL%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4/</guid>
+        
+        <category>MySQL</category>
+        
+        
+        <category>数据库</category>
+        
+      </item>
+    
+  </channel>
+</rss>
